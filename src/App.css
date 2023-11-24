@@ -4,7 +4,7 @@ html, body {
   padding: 0;
   line-height: 1.5;
   font-size: 0.875rem;
-  background-color: rgb(254, 98, 98);
+  /* background-color: rgb(254, 98, 98); */
   color: rgb(255, 255, 255);
 }
 div#root {
@@ -21,7 +21,8 @@ div#root {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: rgb(254, 98, 98);
+  /* background-color: rgb(254, 98, 98); */
+  background-image: url('./assets/star1.jpg');
   color: rgb(255, 255, 255);
   overflow:auto;
 }
