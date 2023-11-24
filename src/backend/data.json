@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Pratik",
+    "birthdate": " Jul 27 2000",
+    "imageURL": "https://gateway.pinata.cloud/ipfs/QmP8TQL92g1ZAT4XA3AqiNaTtredwaEwwLv8iNoXhZLvcb"
+  },
+  {
+    "name": "Sowmya",
+    "birthdate": "Dec 1 2000 ",
+    "imageURL": "https://gateway.pinata.cloud/ipfs/QmNRuKjid4yqcFLbYn2PvJxEakjojy5w7dWw2RrUT3xWB3"
+  },
+  {
+    "name": "Pihu",
+    "birthdate": "Sep 13 2023",
+    "imageURL": "https://gateway.pinata.cloud/ipfs/QmP8TQL92g1ZAT4XA3AqiNaTtredwaEwwLv8iNoXhZLvcb"
+  },
+  {
+    "name": "Mummy",
+    "birthdate": " Jul 14 1971",
+    "imageURL": "https://gateway.pinata.cloud/ipfs/QmP8TQL92g1ZAT4XA3AqiNaTtredwaEwwLv8iNoXhZLvcb"
+  },
+  {
+    "name": "Papa",
+    "birthdate": " Mar 30 1970",
+    "imageURL": "https://gateway.pinata.cloud/ipfs/QmP8TQL92g1ZAT4XA3AqiNaTtredwaEwwLv8iNoXhZLvcb"
+  }
+]
