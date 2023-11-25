@@ -23,5 +23,10 @@
     "name": "Papa",
     "birthdate": " Mar 30 1970",
     "imageURL": "https://gateway.pinata.cloud/ipfs/QmP8TQL92g1ZAT4XA3AqiNaTtredwaEwwLv8iNoXhZLvcb"
+  },
+  {
+    "name": "Nikki",
+    "birthdate": "12/28/2007",
+    "imageURL": ""
   }
 ]
