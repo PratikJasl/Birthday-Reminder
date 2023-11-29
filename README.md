@@ -2,7 +2,7 @@
 
 Tired of forgetting birthdays and feeling the guilt of belated wishes? Fret not! Dive into the "Birthday Reminder" app that turns every day into a party!
 
-Description 📌
+# Description 📌
   - This project is called Birthday Reminder, it allows create a reminder a birthday reminders.
   - The App notify's the user whenever there is an upcoming birthday.
   - The user has to enter the Name, Birthdate and Image of the person whose birthday they want to save on the APP.
@@ -11,7 +11,7 @@ Description 📌
   - The app fetches the data from this JSON file and performs a check to determine, whether there are upcoming birthdays.
   - All the Upcoming Birthdays are displayed.
 
-Technology Stack 📌
+# Technology Stack 📌
   - JavaScript
   - React.js
   - Express.js
